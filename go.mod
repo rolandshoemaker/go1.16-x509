@@ -1,4 +1,4 @@
-module go1.16-x509
+module github.com/rolandshoemaker/go1.16-x509
 
 go 1.15
 
